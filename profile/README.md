@@ -23,7 +23,7 @@
 |------|------|
 | Frontend | HTML5, CSS (TailwindCSS), Vanilla JS, Axios |
 | Backend | Python, Flask |
-| Database | PostgreSQL |
+| Database | 미정 |
 | Bot | Python, Mastodon.py |
 
 ## 레포지토리

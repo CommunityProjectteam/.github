@@ -1,0 +1,5 @@
+blank_issues_enabled: false # 템플릿 없이 빈 이슈를 만드는 기능을 끕니다.
+contact_links:
+  - name: "팀 프로젝트 위키"
+    url: "https://github.com/CommunityProjectteam/.github/wiki"
+    about: "이슈를 작성하기 전 가이드를 먼저 확인하세요!"
